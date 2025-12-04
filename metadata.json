@@ -1,0 +1,5 @@
+{
+  "name": "QRFlex",
+  "description": "A comprehensive SaaS dashboard for QRFlex including QR generation, analytics, billing, and API management, featuring architectural documentation.",
+  "requestFramePermissions": []
+}
